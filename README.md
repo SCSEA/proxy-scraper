@@ -12,7 +12,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/Yousuf9963/proxy-scraper.git
+git clone https://github.com/SCSEA/proxy-scraper.git
 
 cd proxy-scraper
 
